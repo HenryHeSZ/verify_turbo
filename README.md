@@ -10,7 +10,7 @@
 
 ### 第一步
 
-![](C:\Users\admin\Desktop\授权码和裂变模块\images\001.png)
+![](https://github.com/chazzjimel/verify_turbo/blob/main/doc/images/001.png)
 
 首先替换项目主目录的config.py，然后打开config.json文件，添加以下参数
 
@@ -24,7 +24,7 @@
 
 ### 第二步
 
-![](C:\Users\admin\Desktop\授权码和裂变模块\images\002.png)
+![](https://github.com/chazzjimel/verify_turbo/blob/main/doc/images/002.png)
 
 路径：chatgpt-on-wechat\channel\wechat，把这两个文件名的文件进行替换
 
@@ -48,3 +48,15 @@
 
 
 ## 完成，重启项目即可，请务必检查各项配置是否输入无误！不然影响启动！
+
+
+
+![](https://github.com/chazzjimel/verify_turbo/blob/main/doc/images/003.png)
+
+![](https://github.com/chazzjimel/verify_turbo/blob/main/doc/images/004.png)
+
+![](https://github.com/chazzjimel/verify_turbo/blob/main/doc/images/006.png)
+
+![](https://github.com/chazzjimel/verify_turbo/blob/main/doc/images/007.png)
+
+![](https://github.com/chazzjimel/verify_turbo/blob/main/doc/images/005.jpg)
