@@ -34,7 +34,7 @@
 
 然后把godcmd和verify_turbo两个**文件夹**放到chatgpt-on-wechat\plugins下，配置verify_turbo目录内的json内容
 
-```
+```json
 {
   "whitelist": false,		# 控制白名单功能，机器人的好友朋友圈权限设置为不看他朋友圈就是白名单用户，值为true时，白名单用户直通所有服务
   "group_lock": false,		# 控制群聊锁，值为true时，机器人在群聊被@会检测是否有提供激活码，没有则提示输入，针对单个用户，非整个群聊
